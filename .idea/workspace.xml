@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="def344a6-b243-40de-ac62-ef5f8dc077d1" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/imgs/back-2.jpg" afterPath="$PROJECT_DIR$/imgs/back-2.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="superfox-site.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -216,7 +216,7 @@
       <updated>1476785033306</updated>
       <workItem from="1476785034936" duration="6566000" />
       <workItem from="1476792839876" duration="2372000" />
-      <workItem from="1476795440654" duration="2032000" />
+      <workItem from="1476795440654" duration="2222000" />
     </task>
     <task id="LOCAL-00001" summary="Commit inicial, #BIRL">
       <created>1476785084643</created>
@@ -337,11 +337,18 @@
       <option name="project" value="LOCAL" />
       <updated>1476804842214</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Adicionando imagem fundo cinza postagem fb e arrumando meta-tags">
+      <created>1476804918007</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1476804918007</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10970000" />
+    <option name="totallyTimeSpent" value="11160000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -378,6 +385,8 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="Commit inicial, #BIRL" />
     <MESSAGE value="Adicionando imagens no parallax e alterando layout" />
     <MESSAGE value="Adicionando logo do superfox na barra superior" />
